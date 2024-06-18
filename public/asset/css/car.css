@@ -1,0 +1,32 @@
+#product-details {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+#product-details h3,
+.section-title {
+    margin-bottom: 10px;
+}
+#product-details p {
+    margin: 5px 0;
+}
+#product-details ul {
+    list-style-type: none;
+    padding: 0;
+}
+#product-details ul li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+.priceCar {
+    color: green;
+    font-weight: bold;
+}

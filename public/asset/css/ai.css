@@ -1,0 +1,6 @@
+.cardAuto {
+    height: 350px;
+}
+.imageCard {
+    object-fit: contain;
+}
